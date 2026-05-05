@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pickled models and datasets (Optional: comment these out if you want to ship pre-trained models)
+# intent_model.pkl
+# preprocessor.pkl
+
+# OS generated files
+.DS_Store
+Thumbs.db

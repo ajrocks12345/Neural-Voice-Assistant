@@ -1,0 +1,27 @@
+{
+    "intents": {
+        "open_app": ["open notepad", "launch calculator", "start chrome", "open the application", "launch the app"],
+        "close_app": ["close notepad", "exit calculator", "quit chrome", "close the application", "kill the app"],
+        "search_google": ["search google for python", "look up recipes on google", "search the web", "google how to cook", "search for cats"],
+        "play_youtube": ["play funny videos on youtube", "play music on youtube", "youtube search for dogs", "open youtube and play", "watch a video about space"],
+        "play_music": ["play some music", "play my favorite song", "start playing music", "i want to listen to a song", "play a track"],
+        "media_control": ["pause the video", "stop the music", "pause media", "play the media", "resume playback"],
+        "tell_time": ["what time is it", "tell me the time", "what is today's date", "current time and date", "what is the date today"],
+        "set_alarm": ["set an alarm for 7 am", "wake me up at 6", "create an alarm", "set my alarm for tomorrow", "alarm at 8"],
+        "set_reminder": ["remind me to buy milk", "set a reminder for the meeting", "create a reminder", "remind me later", "remind me tomorrow"],
+        "calculate": ["calculate 5 plus 5", "what is 10 divided by 2", "do a calculation", "multiply 4 by 4", "math 100 minus 20"],
+        "weather": ["what is the weather", "is it raining today", "temperature outside", "do i need an umbrella", "forecast for today"],
+        "news": ["what is the news today", "get the latest news", "tell me the news", "news updates", "any breaking news"],
+        "wikipedia": ["search wikipedia for python", "who is albert einstein", "tell me about the roman empire", "look up dogs on wikipedia", "wikipedia search"],
+        "chatgpt": ["ask chatgpt", "i have a general question", "tell me a story", "how does a car work", "explain quantum physics"],
+        "volume": ["increase volume", "decrease the volume", "mute the sound", "turn it up", "make it louder"],
+        "open_folder": ["open documents folder", "open my downloads", "show my files", "open a folder", "go to pictures"],
+        "search_file": ["search for a file", "find my document", "where is my resume", "look for a file named project", "search file system"],
+        "joke": ["tell me a joke", "make me laugh", "do you know any jokes", "say something funny", "tell a funny joke"],
+        "quiz": ["play a quiz", "let's play a game", "ask me a riddle", "trivia game", "riddle me this"],
+        "calendar": ["what is on my calendar", "do i have any meetings today", "check my schedule", "calendar events", "what's my schedule"],
+        "event_reminder": ["remind me about the event", "when is the party", "event reminder", "upcoming events", "remind me of the birthday"],
+        "personalized": ["what is my name", "who am i talking to", "personalized response", "my profile", "know me better", "who made you", "who created you"],
+        "contextual": ["what did i just say", "repeat that", "continue the conversation", "let's keep talking", "context based reply"]
+    }
+}

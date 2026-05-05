@@ -1,0 +1,15 @@
+Name: Akssa
+Age: 24
+
+Date,User_Input,Extracted_Symptoms,Predicted_Disease,Confidence
+2026-03-12 14:40:09,Diagnose with my current symptoms.,pus_filled_pimples,Boils,1.00
+2026-03-12 14:42:56,Diagnose with my current symptoms.,"stomach_pain, stomach_pain_after_dairy, indigestion, bloating, diarrhoea",Lactose Intolerance,0.60
+2026-03-12 14:50:01,vomiting,"vomiting, headache",Headache,0.93
+2026-03-12 16:07:24,high fever,"pain_behind_the_eyes, fever, high_fever",Dengue Fever,0.85
+2026-03-12 16:11:39,headache,"mild_fever, fever, high_fever, muscle_pain, headache",Fever,0.83
+2026-03-12 16:12:09,vomiting,"severe_back_pain, vomiting",Kidney Stones,1.00
+2026-03-13 13:21:53,dry eyes,"dry_eyes, eye_pain, pain_behind_the_eyes",Eye Strain,0.92
+2026-03-13 14:44:38,Diagnose with my current symptoms.,"vomiting, mild_fever",Pancreatitis (mild signs),0.33
+2026-03-13 14:44:59,Diagnose with my current symptoms.,"vomiting, abdominal_pain, stomach_pain",Pancreatic Infection,0.21
+2026-03-13 14:45:28,Diagnose with my current symptoms.,"abdominal_pain, stomach_pain_after_dairy, stomach_pain, mild_fever",Lactose Intolerance,0.65
+2026-03-14,00:43:34,sadness,"loss_of_interest, fatigue, sadness",Mild Depression,1.00
